@@ -1,0 +1,8 @@
+opencv-python
+wget
+torch
+numpy
+scipy
+matplotlib
+Pillow
+segment-anything
